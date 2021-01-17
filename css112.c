@@ -34,16 +34,19 @@ int main()
     c = a*b+0.5;
     printf(" c= %d\n");
 }*/
-
+/*
 {
-    float a,b,c;
-    /*int c;*/
-    printf("input a : ");
-    a = scanf("%f",&a);
-    printf("input b : ");
-    b = scanf("%f",&b);
-    c = (a * b) + 0.5;
-    printf("c = %d\n",c);
-}
+    float g,h,j;
+    int c;
+    printf("input g : ");
+    g = scanf("%f",&g);
+    printf("input h : ");
+    h = scanf("%f",&h);
+    j = (g * h) + 0.5;
+    printf("j = %d\n",j);
+}*/
+
+
+
 
 
